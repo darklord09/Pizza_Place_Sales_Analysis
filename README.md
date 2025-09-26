@@ -27,25 +27,23 @@ The dataset comes from the file **Pizza+Place+Sales.zip**, which contains four C
 
 ## Visualizations
 The analysis notebook generates plots stored in the `pizza_plots/` folder:
-- Revenue by hour  
+- heatmap_weekday_hour
+- price_distribution
+- revenue_by_hour
 - Revenue by weekday  
 - Revenue by month  
 - Top 5 pizzas  
 
 ## Repository Structure
 ```
-├── Pizza_Place_Sales_analysis.ipynb   # Main Jupyter notebook with analysis
-├── pizza_plots/                       # Visualizations (PNG)
-├── data/                              # Original CSV datasets
-├── README.md                          # Project overview and results summary
+├── Mevanyi_Jalani_Pizza_Place_Sales.ipynb   # Main Jupyter notebook with analysis
+├── pizza_plots/                             # Visualizations (PNG)
+├── data/                                    # Original CSV datasets
+├── README.md                                # Project overview and results summary
 ```
 
 ## How to Run
 1. Clone this repository.  
-2. Open `Pizza_Place_Sales_analysis.ipynb` in Jupyter Notebook, JupyterLab, or VS Code.  
+2. Open `Mevanyi_Jalani_Pizza_Place_Sales.ipynb` in Jupyter Notebook, JupyterLab, or VS Code.  
 3. Run the cells to reproduce the analysis.  
-
-## Next Steps
-- Explore daily/weekly trends further.  
-- Build a dashboard for interactive sales analysis.  
-- Identify underperforming pizza types to optimize the menu.  
+  
