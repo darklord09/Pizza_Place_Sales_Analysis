@@ -36,9 +36,9 @@ The analysis notebook generates plots stored in the `pizza_plots/` folder:
 
 ## Repository Structure
 ```
-├── Mevanyi_Jalani_Pizza_Place_Sales.ipynb   # Main Jupyter notebook with analysis
-├── pizza_plots/                             # Visualizations (PNG)
 ├── data/                                    # Original CSV datasets
+├── pizza_plots/                             # Visualizations (PNG)
+├── Mevanyi_Jalani_Pizza_Place_Sales.ipynb   # Main Jupyter notebook with analysis
 ├── README.md                                # Project overview and results summary
 ```
 
